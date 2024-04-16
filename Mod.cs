@@ -13,14 +13,10 @@ namespace CustomAssetPack
         public void OnLoad(UpdateSystem updateSystem)
         {
             log.Info(nameof(OnLoad));
-
-            if (GameManager.instance.modManager.TryGetExecutableAsset(this, out var asset))
-                log.Info($"Current mod asset at {asset.path}");
         }
 
         public void OnDispose()
         {
-            log.Info(nameof(OnDispose));
         }
     }
 }

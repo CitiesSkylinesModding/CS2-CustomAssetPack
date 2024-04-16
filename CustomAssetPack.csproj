@@ -17,8 +17,10 @@
 
         <!--The file where mod information which is required for publishing mod on PDX mods are stored-->
         <PublishConfigurationPath>Properties\PublishConfiguration.xml</PublishConfigurationPath>
-    </PropertyGroup>
 
+        <AdditionalFilesDirectory>Resources</AdditionalFilesDirectory>
+    </PropertyGroup>
+    
     <!--Imports must be after PropertyGroup block-->
     <Import Project="$([System.Environment]::GetEnvironmentVariable('CSII_TOOLPATH', 'EnvironmentVariableTarget.User'))\Mod.props"/>
     <Import Project="$([System.Environment]::GetEnvironmentVariable('CSII_TOOLPATH', 'EnvironmentVariableTarget.User'))\Mod.targets"/>
@@ -70,4 +72,10 @@
         <None Include="$(ModTargetsFile)" Link="Properties\Mod.targets"/>
     </ItemGroup>
 
+    <Target Name="GetAdditionalFiles" AfterTargets="DeployWIP">
+        <ItemGroup>
+            <AdditionalFilesToDeploy Include="$(AdditionalFilesDirectory)\**\*.*" />
+        </ItemGroup>
+        <Copy SourceFiles="@(AdditionalFilesToDeploy)" DestinationFiles="@(AdditionalFilesToDeploy->'$(DeployDir)\%(RecursiveDir)%(Filename)%(Extension)')" />
+    </Target>
 </Project>
