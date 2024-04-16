@@ -13,4 +13,4 @@ To publish your mod you have to do the following steps:
 1. Edit Properties/PublishConfiguration.xml
 2. Edit DisplayName, ShortDescription, LongDescription and Tag
 3. Replace the thumbnail.png file by the thumbnail for your Asset Pack
-4. From within your IDE select the Run Configuration "Publish New Mod"
+4. From within your IDE ~~~~select the Run Configuration "Publish New Mod"

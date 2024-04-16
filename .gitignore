@@ -399,3 +399,9 @@ FodyWeavers.xsd
 
 ## Project related
 GlobalProperties.props
+/.idea/.idea.CustomAssetPack/.idea/.gitignore
+/.idea/.idea.CustomAssetPack/.idea/.name
+/.idea/.idea.CustomAssetPack/.idea/encodings.xml
+/Library/ilpp.pid
+/.idea/.idea.CustomAssetPack/.idea/indexLayout.xml
+/.idea/.idea.CustomAssetPack/.idea/vcs.xml
