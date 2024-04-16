@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAssetPack", "CustomAssetPack.csproj", "{B04F4BF5-D0CE-4588-8C6E-B2AAB3F63379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B04F4BF5-D0CE-4588-8C6E-B2AAB3F63379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04F4BF5-D0CE-4588-8C6E-B2AAB3F63379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04F4BF5-D0CE-4588-8C6E-B2AAB3F63379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04F4BF5-D0CE-4588-8C6E-B2AAB3F63379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
