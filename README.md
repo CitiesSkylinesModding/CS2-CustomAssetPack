@@ -6,7 +6,7 @@ This repository is a template for creating custom asset packs for Cities: Skylin
 - Support for Thumbnails
 - Support for Localization (Using L18N Everywhere)
 
-## Ressources for Asset Creation
+## Resources for Asset Creation
 This section will include videos, knowledge bases and other resources to help you create your own assets.
 
 ## DISCLAIMER
