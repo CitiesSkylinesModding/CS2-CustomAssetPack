@@ -15,7 +15,7 @@
                 "active": true,
                 "m_Group": null,
                 "m_Priority": 1,
-                "m_Icon": "coui://customassets/CarProp/CarProp.png",
+                "m_Icon": "coui://customassets/ExamplePack/CarProp.png",
                 "m_LargeIcon": "",
                 "m_IsDebugObject": false
             }
