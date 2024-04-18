@@ -29,5 +29,5 @@ TODO#3
 	<!--ChangeLog>
 	</ChangeLog-->
 	<!--External link. supported types are discord, github, youtube, twitch, x, paypal, patreon-->
-	<ExternalLink Type="" Url="" />
+	<ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
 </Publish>
