@@ -23,7 +23,7 @@ TODO#3
 	<!--Recommended version of the base game to use the mod-->
 	<GameVersion Value="1.0.*" />
 	<!--Dependency for the mod, can be set multiple times-->
-	<Dependency Id="TODO#DEVELOPER" />
+	<Dependency Id="78903" />
 	<!--Change log for new version. Single line or multi line. Supports minimal markdown subset-->
 	<ChangeLog Value="" />
 	<!--ChangeLog>
