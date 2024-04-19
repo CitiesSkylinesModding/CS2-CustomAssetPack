@@ -13,6 +13,10 @@ This section will include videos, knowledge bases and other resources to help yo
 
 Unofficial Custom Assets are highly experimental. They WILL crash your game at some point or throw errors. Create redundant copies of your savefiles and use at your own risk. There has not been a lot of testing done on custom assets, and I'm publishing this project to get feedback from the community.
 
+## Requirements
+- Modding Toolchain Installed
+- Finished Assets (.Prefab and .Prefab.cid file, option Thumbnail files)
+
 ## Creating your Asset Pack
 
 1. Clone the repository OR Create a repository based on this ("Use this template", green button)
