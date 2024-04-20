@@ -7,7 +7,7 @@ This repository is a template for creating custom asset packs for Cities: Skylin
 - Support for Localization (Using L18N Everywhere)
 
 ## Resources for Asset Creation
-This section will include videos, knowledge bases and other resources to help you create your own assets.
+Check out the [Cities Skylines Modding Discord](https://discord.gg/UkKAfRqfCn) for guides, videos and other resources for aspiring asset creators. You can also ask for help there or share your progress and ask for feedback
 
 ## DISCLAIMER
 
@@ -16,6 +16,16 @@ Unofficial Custom Assets are highly experimental. They WILL crash your game at s
 ## Requirements
 - Modding Toolchain Installed
 - Finished Assets (.Prefab and .Prefab.cid file, option Thumbnail files)
+
+## Creating Assets
+The process is called asset assembly, because we use existing assets and props and combine them into new assets. We can add Components to add functionality to the assets. You can find a full guide for the asset creation in the discord server.
+
+
+Short compilation of the steps:
+1. Open the Editor in Cities Skylines II
+2. Create your Asset and click the save button on the top left when you are done
+3. Your assets will now be found in `C:/Users/[USERNAME]/LocalAppData/Colossal Order/Cities Skylines II/StreamingAssets~`
+4. Copy the .Prefab and .Prefab.cid file. The file names should correspond to the ones you chose in the editor. These are the files you will be sharing.
 
 ## Creating your Asset Pack
 
@@ -34,7 +44,7 @@ To publish your mod you have to do the following steps:
 1. Open `Properties/PublishConfiguration.xml` in Editor
 2. Edit `<DisplayName>`, `<ShortDescription>`, `<LongDescription>` and `<Tag>`
 3. Replace the `thumbnail.png` file by the thumbnail for your Asset Pack
-4. From within your IDE select the Run Configuration "Publish New Mod"
+4. In Visual Studio, navigate to "Publish" and select "Publish New Mod". In Rider you can just select "Publish New Mod" next to the green arrow and press the arrow to execute the Publish Configuration,
 
 
 ## Support and Contact
