@@ -1,6 +1,6 @@
 ## Custom Asset Pack
 
-This repository is a template for creating custom asset packs for Cities: Skylines II. It depends on the [Asset Importer](https://github.com/kosch104/CS2-AssetImporter) mod to load the assets into the game.
+This repository is a template for creating custom asset packs for Cities: Skylines II. It depends on the [Asset Packs Manager (Formerly Asset Importer)](https://github.com/kosch104/CS2-AssetPacksManager) mod to load the assets into the game.
 
 ## Features
 - Support for Thumbnails
