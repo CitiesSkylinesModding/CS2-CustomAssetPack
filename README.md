@@ -30,7 +30,7 @@ Short compilation of the steps:
 ## Creating your Asset Pack
 
 1. Clone the [repository](https://github.com/kosch104/CS2-CustomAssetPack) OR Create a repository based on this ("Use this template", green button)
-2. Open the respository in your windows explorer (file browser) and execute the `AssetPackCreatorUtilities.exe`. There you can rename your project. Choose a project name that contains no spaces or special characters and ends in `AssetPack`
+2. Open the repository in your windows explorer (file browser) and execute the `AssetPackCreatorUtilities.exe`. There you can rename your project. Choose a project name that contains no spaces or special characters and ends in `AssetPack`
 3. Open the repository sln-file with any IDE (Visual Studio, Rider, but NOT Visual Studio Code, that doesn't work)
 4. If you are using an alternative Cities Skylines II installation path, enter it in the `CustomAssetPack.csproj`-file under `<CustomManagedPath>`
 5. Create a file called `pdx-account.txt` on your Desktop. Put your PDX Mods username in the first line, your password in the second line. This is required for the mod to be published under your name and will not be shared with anyone.
