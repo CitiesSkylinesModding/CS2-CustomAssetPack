@@ -7,7 +7,7 @@ namespace CustomAssetPack
 {
     public class Mod : IMod
     {
-        public static ILog log = LogManager.GetLogger($"AssetPackManagers.Packs")
+        public static ILog log = LogManager.GetLogger($"AssetPacksManager.Packs")
             .SetShowsErrorsInUI(false);
 
         public void OnLoad(UpdateSystem updateSystem)
