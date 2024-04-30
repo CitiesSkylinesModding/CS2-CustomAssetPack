@@ -24,7 +24,7 @@ The process is called asset assembly, because we use existing assets and props a
 Short compilation of the steps:
 1. Open the Editor in Cities Skylines II
 2. Create your Asset and click the save button on the top left when you are done
-3. Your assets will now be found in `C:/Users/[USERNAME]/LocalAppData/Colossal Order/Cities Skylines II/StreamingAssets~`
+3. Your assets will now be found in `C:/Users/[USERNAME]/AppData/LocalLow/Colossal Order/Cities Skylines II/StreamingAssets~`
 4. Copy the .Prefab and .Prefab.cid file. The file names should correspond to the ones you chose in the editor. These are the files you will be sharing.
 
 ## Creating your Asset Pack
