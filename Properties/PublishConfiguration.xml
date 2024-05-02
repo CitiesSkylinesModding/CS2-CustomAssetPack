@@ -8,7 +8,13 @@
 	<!--Long description of the mod. Single line or multi line. Supports minimal markdown subset-->
 	<!--LongDescription Value="This is a long description" /-->
 	<LongDescription>
-TODO#3
+## Asset Pack Name
+This asset packs adds xxx and yyy to the game
+
+## Added Assets:
+- Asset 1
+- Asset 2
+- Asset 3 (special)
 	</LongDescription>
 	<!--Thumbnail-->
 	<Thumbnail Value="Properties/Thumbnail.png" />

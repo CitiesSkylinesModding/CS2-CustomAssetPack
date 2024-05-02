@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Asset Pack Creator settings
+assetPackCreatorSettings.json
+
 # User-specific files
 *.rsuser
 *.suo
