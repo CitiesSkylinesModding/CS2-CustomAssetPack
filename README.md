@@ -32,7 +32,7 @@ Short compilation of the steps:
 ## Creating your Asset Pack
 There are two ways to create your asset pack:
 1. [Using the provided `AssetPackCreator.exe` for Windows (recommended)](AssetPackCreator.md)
-2. [Manually creating your Asset Pack](ManualAssetCreation.md)
+2. [Manually creating your Asset Pack](ManualAssetPackCreation.md)
 
 ## Support and Contact
 To receive help and find other asset creators join the [Cities Skylines Modding Discord](https://discord.gg/UkKAfRqfCn). We have infrastructure with a knowledge base and a community of creators that can help you with your questions.
