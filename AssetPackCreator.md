@@ -9,6 +9,8 @@ The Asset Pack Creator is a Windows Application designed to be used as a replace
 - Automatically sets correct Prefab Name and Thumbnail paths in the Prefab file
 - Edit your Asset Pack Publishing Information (thumbnail, Display name) including Markdown Preview
 - Publish your Asset Pack from within the application without ever opening an IDE
+- Add Name and Description to your assets (coming soon)
+- Add Localization to your assets (coming soon)
 
 ## Getting Started
 
