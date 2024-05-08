@@ -1,4 +1,4 @@
 {
-  "Assets.NAME[CarProp]": "Example Name",
-  "Assets.DESCRIPTION[CarProp]": "Example Description"
+  "Assets.NAME[CarProp]": "CarProp",
+  "Assets.DESCRIPTION[CarProp]": "A small car prop without any functionality"
 }
