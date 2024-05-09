@@ -13,7 +13,7 @@
         <!--The file should contain 2 lines:-->
         <!--Your.PDX@Account.login-->
         <!--Your-PDX-Account-Pa$$word-->
-        <PDXAccountDataPath>$(USERPROFILE)\Desktop\pdx_account.txt</PDXAccountDataPath>
+        <PDXAccountDataPath>$(USERPROFILE)\pdx_account.txt</PDXAccountDataPath>
 
         <!--The file where mod information which is required for publishing mod on PDX mods are stored-->
         <PublishConfigurationPath>Properties\PublishConfiguration.xml</PublishConfigurationPath>
