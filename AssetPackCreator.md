@@ -14,9 +14,10 @@ The Asset Pack Creator is a Windows Application designed to be used as a replace
 
 ## Getting Started
 
-1. Download OR Clone the [repository](https://github.com/kosch104/CS2-CustomAssetPack) OR Create a repository based on this ("Use this template", green button)
-2. Open the repository in your windows explorer (file browser) and execute the `AssetPackCreator.exe`
-3. Follow the instruction steps in the Asset Pack Creator
+1. Download the (AssetPackWorkspaces Application)[https://github.com/kosch104/CS2-CustomAssetPack/releases/tag/v0.1] and put it somewhere accessible (Desktop for example)
+2. Execute the application. Confirm executing the application if windows asks you to.
+3. Click on `Create New Asset Pack`
+4. The Asset Pack Creator application will open and you can follow the steps
 
 ## Known Issues
 - When opening the Creator in a manually edited Asset Pack there can be uncaught exceptions. 
