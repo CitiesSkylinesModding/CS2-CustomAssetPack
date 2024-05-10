@@ -23,5 +23,11 @@ The Asset Pack Creator is a Windows Application designed to be used as a replace
 - When opening the Creator in a manually edited Asset Pack there can be uncaught exceptions.
 
 ## Gallery
+### Asset Pack Workspaces:
 ![grafik](https://github.com/kosch104/CS2-CustomAssetPack/assets/24923925/19ee26a1-9d80-459f-9685-703f48fa6534)
+
+
+### Asset Pack Creator
+![grafik](https://github.com/kosch104/CS2-CustomAssetPack/assets/24923925/9eae123f-57b5-4fde-a8e2-469ddfa5ee87)
+
 
