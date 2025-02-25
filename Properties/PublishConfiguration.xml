@@ -14,7 +14,7 @@ This asset packs adds xxx and yyy to the game
   <Tag Value="Code Mod" />
   <ForumLink Value="" />
   <ModVersion Value="1.0" />
-  <GameVersion Value="1.1.*" />
+  <GameVersion Value="1.2.*" />
   <Dependency Id="78903" />
   <ChangeLog>Initial release</ChangeLog>
   <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />

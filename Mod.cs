@@ -12,7 +12,7 @@ namespace CustomAssetPack
 
         public void OnLoad(UpdateSystem updateSystem)
         {
-            log.Info("Loading Asset Pack " + nameof(CustomAssetPack));
+
         }
 
         public void OnDispose()
